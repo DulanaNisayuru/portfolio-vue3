@@ -3,7 +3,7 @@
 <template>
   <footer>
     <div class="container">
-      <p>&copy; 2023 - Mathis Dousse. Développé avec Vue3</p>
+      <p>&copy; 2023 - Nadun Adithya.Developed with Vue3</p>
       <div class="social-links">
         <a
           class="social-link"
